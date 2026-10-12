@@ -23,7 +23,7 @@ Press F8 in game to open or close the panel. It does not interrupt the story.
 - Shows and adjusts intimidation and charisma (0–99), applied immediately.
 - Lauren route switch (love route / rise route).
 - Gallery unlocks (Lauren shower / Lauren love / Lauren + Natalia).
-- Branch flags (Rose creampie / Karen anal / Chloe cowgirl).
+
 - 
 Install
 1. Copy the .rpy file(s) from game/ into your game's game/ folder, e.g.
@@ -44,4 +44,4 @@ the mod may need a refresh.
 中文速览
 
 两个独立模组，放进游戏的 game\ 目录即生效，不改动任何原文件，删掉即卸载。
-- zz_relation_mod.rpy — 关系/称呼替换：可按"谁在说话"分别改，比如劳伦叫你什么、你叫劳伦什么互不影响。不用按键，进游戏就生效；要改内容就改文件顶部"② 替换规则"。
+- zz_relation_mod.rpy — 关系/称呼替换：可按"谁在说话"分别改，比如人物叫你什么、你叫人物什么互不影响。不用按键，进游戏就生效；要改内容就改文件顶部"② 替换规则"。
